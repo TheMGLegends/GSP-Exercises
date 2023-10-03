@@ -40,7 +40,11 @@ public class SimpleTPController : MonoBehaviour
     public float Cam_Offset;
 
     [Header("Aiming Stuff")]
-    private bool IsAiming;
+    internal bool IsAiming;
+    public float AimingFOV;
+    public float Non_AimingFOV;
+
+    public GameObject Reticle_UI;
 
     void Start()
     {
@@ -48,6 +52,8 @@ public class SimpleTPController : MonoBehaviour
         animator = GetComponent<Animator>();
 
         LeCam = Camera.main;
+
+        Non_AimingFOV = LeCam.fieldOfView;
 
         RotX = CamAttachment.transform.localRotation.eulerAngles.x;
         CamOrigin = LeCam.transform.localPosition;
@@ -82,6 +88,9 @@ public class SimpleTPController : MonoBehaviour
     {
         IsAiming = Input.GetMouseButton(1);
         animator.SetBool("IsAiming", IsAiming);
+
+        LeCam.fieldOfView = (IsAiming) ? AimingFOV : Non_AimingFOV;
+        Reticle_UI.SetActive(IsAiming);
     }
 
     private void CamWallCollisionHelper()
