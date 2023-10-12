@@ -1,7 +1,9 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
@@ -12,11 +14,19 @@ public class GameManager : MonoBehaviour
 
     private GameObject ball;
     public float respawnTimer;
-    public float delay;
+    public float delay = 1;
+
+    public TMP_Text P1ScoreText;
+    public TMP_Text P2ScoreText;
+
+    private void Awake()
+    {
+        gameManager = this;
+    }
 
     void Start()
     {
-        gameManager = this;
+        UpdateUI();
         ball = GameObject.Find("Ball");
     }
     internal void DespawnBall()
@@ -31,5 +41,11 @@ public class GameManager : MonoBehaviour
 
         ball.SetActive(true);
         ball.GetComponent<BallScript>().Respawn();
+    }
+
+    public void UpdateUI()
+    {
+        P1ScoreText.text = P1_Score.ToString();
+        P2ScoreText.text = P2_Score.ToString();
     }
 }

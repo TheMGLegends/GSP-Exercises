@@ -30,13 +30,12 @@ public class BallScript : MonoBehaviour
 
     internal void Respawn()
     {
+        SFXManager.sfxManager.PlaySFX(SFXManager.SoundEffects.Respawn);
         transform.position = originLocation;
-
         int rand = UnityEngine.Random.Range(0, 4); // 0, 1, 2, 3
         direction = (InitialDirection)rand;
 
         StartCoroutine(MovementDelayCoroutine());
-
     }
 
     private IEnumerator MovementDelayCoroutine()
@@ -66,10 +65,12 @@ public class BallScript : MonoBehaviour
         if (collision.CompareTag("Wall"))
         {
             rb.velocity = new Vector2(rb.velocity.x, -rb.velocity.y);
+            SFXManager.sfxManager.PlaySFX(SFXManager.SoundEffects.Bounce);
         }
         else if (collision.CompareTag("Pad"))
         {
             rb.velocity = new Vector2(-rb.velocity.x, rb.velocity.y);
+            SFXManager.sfxManager.PlaySFX(SFXManager.SoundEffects.Bounce);
         }
     }
 }

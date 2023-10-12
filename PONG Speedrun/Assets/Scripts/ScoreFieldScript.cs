@@ -26,6 +26,8 @@ public class ScoreFieldScript : MonoBehaviour
                     break;
             }
         }
+        SFXManager.sfxManager.PlaySFX(SFXManager.SoundEffects.Goal);
+        GameManager.gameManager.UpdateUI();
         GameManager.gameManager.DespawnBall();
     }
 }
