@@ -226,8 +226,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GridPiece: {fileID: 3072961131896420931, guid: dc2ac20d40bf0f345beabe350dafb05e, type: 3}
-  GridWidth: 6
-  GridHeight: 6
+  GridWidth: 8
+  GridHeight: 8
   RefObj: {fileID: 695488382}
   Offset: 0.79
   Margin: 0.1
@@ -237,9 +237,9 @@ MonoBehaviour:
   SelectionBoxSpr: {fileID: 21300000, guid: 82e9755ee2a417540ad71e24c9fc7ceb, type: 3}
   Spr_Cloud: {fileID: 3349391187094723686, guid: fa492cb10e57083439e2df09fdc5a1ea, type: 3}
   Spr_Star: {fileID: 5199979006384268662, guid: dc0fbc128a3a8084696819fd138e8ae2, type: 3}
-  Spr_MoonHalf: {fileID: 8473043965093600647, guid: 0aa53203d0f972445889ca64704b7bd7, type: 3}
-  Spr_MoonDark: {fileID: 3152323304821044396, guid: 478642b3a27fbf84a9e301cf4f358f51, type: 3}
-  MaxMoons: 0
+  Spr_MoonHalf: {fileID: 21300000, guid: 0aa53203d0f972445889ca64704b7bd7, type: 3}
+  Spr_MoonDark: {fileID: 21300000, guid: 478642b3a27fbf84a9e301cf4f358f51, type: 3}
+  MaxMoons: 8
 --- !u!1 &695488382
 GameObject:
   m_ObjectHideFlags: 0
