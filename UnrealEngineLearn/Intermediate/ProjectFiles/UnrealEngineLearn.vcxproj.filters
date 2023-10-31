@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealEngineLearn.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DF20CB71-53AA-4D92-8EDF-2D36C3ED4EC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealEngineLearn.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealEngineLearnEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F562B74F-8469-4978-89CE-3E1115C3CAC4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealEngineLearn">
+      <UniqueIdentifier>{745B4B69-2003-483E-9AFA-7E85CBBA41D4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearn.Build.cs">
+      <Filter>Source\UnrealEngineLearn</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearn.cpp">
+      <Filter>Source\UnrealEngineLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearn.h">
+      <Filter>Source\UnrealEngineLearn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearnCharacter.cpp">
+      <Filter>Source\UnrealEngineLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearnCharacter.h">
+      <Filter>Source\UnrealEngineLearn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearnGameMode.cpp">
+      <Filter>Source\UnrealEngineLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearnGameMode.h">
+      <Filter>Source\UnrealEngineLearn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearnHUD.cpp">
+      <Filter>Source\UnrealEngineLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearnHUD.h">
+      <Filter>Source\UnrealEngineLearn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearnProjectile.cpp">
+      <Filter>Source\UnrealEngineLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearnProjectile.h">
+      <Filter>Source\UnrealEngineLearn</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
