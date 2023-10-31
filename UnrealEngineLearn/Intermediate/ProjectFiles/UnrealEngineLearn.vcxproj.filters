@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealEngineLearn.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{DF20CB71-53AA-4D92-8EDF-2D36C3ED4EC2}</UniqueIdentifier>
+      <UniqueIdentifier>{69FA3DFC-DA54-462D-8C07-1BF9225B0091}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealEngineLearn.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{F562B74F-8469-4978-89CE-3E1115C3CAC4}</UniqueIdentifier>
+      <UniqueIdentifier>{ED40A4B3-F72E-4850-920A-E900D5D59099}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UnrealEngineLearn">
-      <UniqueIdentifier>{745B4B69-2003-483E-9AFA-7E85CBBA41D4}</UniqueIdentifier>
+      <UniqueIdentifier>{835BF752-F8D3-4349-A853-724810BA6652}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearn.Build.cs">
       <Filter>Source\UnrealEngineLearn</Filter>
@@ -65,5 +65,18 @@
     <ClInclude Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearnProjectile.h">
       <Filter>Source\UnrealEngineLearn</Filter>
     </ClInclude>
+    <Filter Include="Source\UnrealEngineLearn\Private">
+      <UniqueIdentifier>{F7A837EB-0CA2-4AA9-B064-CB87DEF68F77}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealEngineLearn\Private\ATest.cpp">
+      <Filter>Source\UnrealEngineLearn\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UnrealEngineLearn\Public">
+      <UniqueIdentifier>{ED266BA7-5313-4B4E-9C5F-6E287D807046}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealEngineLearn\Public\ATest.h">
+      <Filter>Source\UnrealEngineLearn\Public</Filter>
+    </ClInclude>
+    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>
