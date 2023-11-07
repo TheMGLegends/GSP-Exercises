@@ -28,5 +28,5 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 	FVector RandomPos();
-	void InstantiateBall();
+	void InstantiateBall(int amountToSpawn);
 };
