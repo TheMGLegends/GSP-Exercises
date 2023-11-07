@@ -24,8 +24,11 @@ void AMyBall::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	InstantiateBall(100);
 	if (playerController->WasInputKeyJustPressed(EKeys::B)) {
+		InstantiateObject(10, ballObject);
+	}
+	else if (playerController->WasInputKeyJustPressed(EKeys::C)) {
+		InstantiateObject(10, cubeObject);
 	}
 }
 
@@ -34,14 +37,14 @@ FVector AMyBall::RandomPos()
 	return FVector(FMath::RandRange(-1000, 1000), FMath::RandRange(-1000, 1000), FMath::RandRange(-1000, 1000));
 }
 
-void AMyBall::InstantiateBall(int amountToSpawn)
+void AMyBall::InstantiateObject(int amountToSpawn, TSubclassOf<AActor> object)
 {
 	for (size_t i = 0; i < amountToSpawn; i++)
 	{
 		FActorSpawnParameters spawnParams;
 		spawnParams.Owner = this;
 		spawnParams.Instigator = GetInstigator();
-		AActor* OurNewObject = GetWorld()->SpawnActor<AActor>(ourSpawningObject, RandomPos(), FRotator(0), spawnParams);
+		AActor* OurNewObject = GetWorld()->SpawnActor<AActor>(object, RandomPos(), FRotator(0), spawnParams);
 	}
 }
 
