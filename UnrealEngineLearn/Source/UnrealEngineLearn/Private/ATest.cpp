@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "ATest.h"
+#include "ATest.h" 
 #include "Kismet/GameplayStatics.h"
 
 // Sets default values
@@ -28,7 +28,7 @@ void AATest::Tick(float DeltaTime)
 	
 	if (currentTime > timeInterval) {
 		currentTime = 0;
-		UGameplayStatics::OpenLevel(GetWorld(), newLevel);
+		//UGameplayStatics::OpenLevel(GetWorld(), newLevel);
 	}
 }
 
