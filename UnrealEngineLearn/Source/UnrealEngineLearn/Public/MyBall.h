@@ -16,11 +16,11 @@ public:
 	AMyBall();
 
 	UPROPERTY(EditAnywhere, Category = "Spawner Category")
-	TSubclassOf<AActor> ballObject;
+	TSubclassOf<AActor> BallObject;
 	UPROPERTY(EditAnywhere, Category = "Spawner Category")
-	TSubclassOf<AActor> cubeObject;
+	TSubclassOf<AActor> CubeObject;
 	UPROPERTY(VisibleAnywhere, Category = "Spawner Category")
-	APlayerController* playerController;
+	APlayerController* PlayerController;
 
 protected:
 	// Called when the game starts or when spawned
@@ -29,6 +29,6 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-	FVector RandomPos();
-	void InstantiateObject(int amountToSpawn, TSubclassOf<AActor> object);
+	static FVector RandomPos();
+	void InstantiateObject(int AmountToSpawn, TSubclassOf<AActor> Object);
 };

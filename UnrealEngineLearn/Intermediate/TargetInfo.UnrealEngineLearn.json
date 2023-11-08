@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealEngineLearn",
+			"Path": "B:\\University Projects\\GSP-Exercises\\UnrealEngineLearn\\Source\\UnrealEngineLearn.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealEngineLearnEditor",
+			"Path": "B:\\University Projects\\GSP-Exercises\\UnrealEngineLearn\\Source\\UnrealEngineLearnEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

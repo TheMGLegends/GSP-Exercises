@@ -7,28 +7,28 @@
 // Sets default values
 AMyBall::AMyBall()
 {
- 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
+	PlayerController = nullptr;
+	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-
 }
 
 // Called when the game starts or when spawned
 void AMyBall::BeginPlay()
 {
 	Super::BeginPlay();
-	playerController = UGameplayStatics::GetPlayerController(GetWorld(), 0);
+	PlayerController = UGameplayStatics::GetPlayerController(GetWorld(), 0);
 }
 
 // Called every frame
-void AMyBall::Tick(float DeltaTime)
+void AMyBall::Tick(const float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	if (playerController->WasInputKeyJustPressed(EKeys::B)) {
-		InstantiateObject(10, ballObject);
+	if (PlayerController->WasInputKeyJustPressed(EKeys::B)) {
+		InstantiateObject(10, BallObject);
 	}
-	else if (playerController->WasInputKeyJustPressed(EKeys::C)) {
-		InstantiateObject(10, cubeObject);
+	else if (PlayerController->WasInputKeyJustPressed(EKeys::C)) {
+		InstantiateObject(10, CubeObject);
 	}
 }
 
@@ -37,14 +37,15 @@ FVector AMyBall::RandomPos()
 	return FVector(FMath::RandRange(-1000, 1000), FMath::RandRange(-1000, 1000), FMath::RandRange(-1000, 1000));
 }
 
-void AMyBall::InstantiateObject(int amountToSpawn, TSubclassOf<AActor> object)
+void AMyBall::InstantiateObject(const int AmountToSpawn, const TSubclassOf<AActor> Object)
 {
-	for (size_t i = 0; i < amountToSpawn; i++)
+	for (size_t i = 0; i < AmountToSpawn; i++)
 	{
-		FActorSpawnParameters spawnParams;
-		spawnParams.Owner = this;
-		spawnParams.Instigator = GetInstigator();
-		AActor* OurNewObject = GetWorld()->SpawnActor<AActor>(object, RandomPos(), FRotator(0), spawnParams);
+		FActorSpawnParameters SpawnParams;
+		SpawnParams.Owner = this;
+		SpawnParams.Instigator = GetInstigator();
+		//AActor* OurNewObject = GetWorld()->SpawnActor<AActor>(object, RandomPos(), FRotator(0), spawnParams);
+		GetWorld()->SpawnActor<AActor>(Object, RandomPos(), FRotator(0), SpawnParams);
 	}
 }
 

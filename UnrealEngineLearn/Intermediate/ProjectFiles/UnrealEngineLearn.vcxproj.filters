@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealEngineLearn.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{0EFEA747-AA75-4C0D-857F-FBAB760A1A49}</UniqueIdentifier>
+      <UniqueIdentifier>{CA8A087F-9CC8-4606-8434-AB9406C982D7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealEngineLearn.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{E86BA833-88A8-4777-84F6-9B54DDB900B8}</UniqueIdentifier>
+      <UniqueIdentifier>{FA24A5F2-12DA-461D-8200-B6F52B33B1BA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UnrealEngineLearn">
-      <UniqueIdentifier>{E5529E20-C992-413B-8AA7-2C70340FED79}</UniqueIdentifier>
+      <UniqueIdentifier>{2CD7D520-B97D-494E-B6AD-2D6E2692061D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealEngineLearn\UnrealEngineLearn.Build.cs">
       <Filter>Source\UnrealEngineLearn</Filter>
@@ -66,7 +66,7 @@
       <Filter>Source\UnrealEngineLearn</Filter>
     </ClInclude>
     <Filter Include="Source\UnrealEngineLearn\Private">
-      <UniqueIdentifier>{5D8C3F0E-42F1-4C21-B54D-2CF47B5B0452}</UniqueIdentifier>
+      <UniqueIdentifier>{FD15A693-73B1-422F-A87C-4B316C2D1719}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\UnrealEngineLearn\Private\ATest.cpp">
       <Filter>Source\UnrealEngineLearn\Private</Filter>
@@ -74,13 +74,19 @@
     <ClCompile Include="..\..\Source\UnrealEngineLearn\Private\MyBall.cpp">
       <Filter>Source\UnrealEngineLearn\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealEngineLearn\Private\TestClassForRider.cpp">
+      <Filter>Source\UnrealEngineLearn\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\UnrealEngineLearn\Public">
-      <UniqueIdentifier>{E694E19C-5276-4739-839B-7F0196C52E38}</UniqueIdentifier>
+      <UniqueIdentifier>{BB2BC4FE-FE83-465E-86D7-D0BBBA4E913E}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\UnrealEngineLearn\Public\ATest.h">
       <Filter>Source\UnrealEngineLearn\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\UnrealEngineLearn\Public\MyBall.h">
+      <Filter>Source\UnrealEngineLearn\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealEngineLearn\Public\TestClassForRider.h">
       <Filter>Source\UnrealEngineLearn\Public</Filter>
     </ClInclude>
   </ItemGroup>

@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "UnrealEngineLearn",
-			"Path": "C:\\Users\\5CINCM67\\Downloads\\GSP-Exercises\\UnrealEngineLearn\\Source\\UnrealEngineLearn.Target.cs",
+			"Path": "B:\\University Projects\\GSP-Exercises\\UnrealEngineLearn\\Source\\UnrealEngineLearn.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "UnrealEngineLearnEditor",
-			"Path": "C:\\Users\\5CINCM67\\Downloads\\GSP-Exercises\\UnrealEngineLearn\\Source\\UnrealEngineLearnEditor.Target.cs",
+			"Path": "B:\\University Projects\\GSP-Exercises\\UnrealEngineLearn\\Source\\UnrealEngineLearnEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
