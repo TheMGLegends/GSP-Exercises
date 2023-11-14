@@ -86,6 +86,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
 	uint8 bUsingMotionControllers : 1;
 
+	UFUNCTION(BlueprintCallable, Category = "Debug Category")
+	void DebugLog(FString debugText);
+
 protected:
 	
 	/** Fires a projectile. */
@@ -111,6 +114,9 @@ protected:
 	 * @param Rate	This is a normalized rate, i.e. 1.0 means 100% of desired turn rate
 	 */
 	void LookUpAtRate(float Rate);
+
+	void Matej();
+	void MatejCincibus(float value);
 
 	struct TouchData
 	{

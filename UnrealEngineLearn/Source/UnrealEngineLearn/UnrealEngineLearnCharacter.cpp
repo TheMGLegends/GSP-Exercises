@@ -136,6 +136,27 @@ void AUnrealEngineLearnCharacter::SetupPlayerInputComponent(class UInputComponen
 	PlayerInputComponent->BindAxis("TurnRate", this, &AUnrealEngineLearnCharacter::TurnAtRate);
 	PlayerInputComponent->BindAxis("LookUp", this, &APawn::AddControllerPitchInput);
 	PlayerInputComponent->BindAxis("LookUpRate", this, &AUnrealEngineLearnCharacter::LookUpAtRate);
+
+
+	// MY OWN ACTIONS:
+	PlayerInputComponent->BindAction("Matej", IE_Pressed, this, &AUnrealEngineLearnCharacter::Matej);
+	PlayerInputComponent->BindAxis("MatejCincibus", this, &AUnrealEngineLearnCharacter::MatejCincibus);
+}
+
+void AUnrealEngineLearnCharacter::Matej()
+{
+	DebugLog("Matej");
+}
+
+void AUnrealEngineLearnCharacter::MatejCincibus(float value)
+{
+	if (value == 1)
+		DebugLog(FString::FromInt(value));
+}
+
+void AUnrealEngineLearnCharacter::DebugLog(FString debugText)
+{
+	GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, debugText);
 }
 
 void AUnrealEngineLearnCharacter::OnFire()
