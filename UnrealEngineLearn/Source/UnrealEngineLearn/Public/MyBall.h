@@ -21,6 +21,8 @@ public:
 	TSubclassOf<AActor> CubeObject;
 	UPROPERTY(VisibleAnywhere, Category = "Spawner Category")
 	APlayerController* PlayerController;
+	UPROPERTY(VisibleAnywhere, Category = "Sure")
+	UStaticMeshComponent* MyComp;
 
 protected:
 	// Called when the game starts or when spawned
@@ -31,4 +33,8 @@ public:
 	virtual void Tick(float DeltaTime) override;
 	static FVector RandomPos();
 	void InstantiateObject(int AmountToSpawn, TSubclassOf<AActor> Object);
+	UFUNCTION()
+	void OnMyComponentWake(class UPrimitiveComponent* WakingComponent, FName BoneName);
+	UFUNCTION(BlueprintCallable, Category = "Debug Category")
+	void DebugLog(FString debugText);
 };
