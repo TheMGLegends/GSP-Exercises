@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealAnimation.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{56A22665-D7EF-4D1D-88DD-C1722C15B084}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealAnimation.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealAnimationEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2C18BD87-22B4-4DB3-8B29-1BEB4BAC0C69}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealAnimation">
+      <UniqueIdentifier>{9795E4C8-1FBF-43CB-A50D-5AC98AA095F9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealAnimation\AMyNinja.cpp">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAnimation\AMyNinja.h">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealAnimation\MyAnimInstance.cpp">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAnimation\MyAnimInstance.h">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealAnimation\MyAnimNotify.cpp">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAnimation\MyAnimNotify.h">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnrealAnimation\UnrealAnimation.Build.cs">
+      <Filter>Source\UnrealAnimation</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealAnimation\UnrealAnimation.cpp">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAnimation\UnrealAnimation.h">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealAnimation\UnrealAnimationCharacter.cpp">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAnimation\UnrealAnimationCharacter.h">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealAnimation\UnrealAnimationGameMode.cpp">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAnimation\UnrealAnimationGameMode.h">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealAnimation\UnrealAnimationHUD.cpp">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAnimation\UnrealAnimationHUD.h">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealAnimation\UnrealAnimationProjectile.cpp">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAnimation\UnrealAnimationProjectile.h">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

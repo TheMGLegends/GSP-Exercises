@@ -302,6 +302,7 @@ void AUnrealEngineLearnCharacter::TurnAtRate(float Rate)
 void AUnrealEngineLearnCharacter::LookUpAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
+	FMath::Clamp(Rate, -25, 25);
 	AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
 }
 

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealAnimation",
+			"Path": "C:\\Users\\5CINCM67\\Documents\\GitHub\\GSP-Exercises\\UnrealAnimation\\Source\\UnrealAnimation.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealAnimationEditor",
+			"Path": "C:\\Users\\5CINCM67\\Documents\\GitHub\\GSP-Exercises\\UnrealAnimation\\Source\\UnrealAnimationEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
