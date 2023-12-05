@@ -1,0 +1,1345 @@
+﻿Log file open, 12/05/23 14:57:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UnrealAnimation
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.037926
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Engine.ini]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Engine.ini]
+[2023.12.05-14.57.38:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Engine.ini]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Engine.ini]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.12.05-14.57.38:046][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Engine.ini]
+[2023.12.05-14.57.38:046][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Engine.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.12.05-14.57.38:057][  0]LogInit: Selected Device Profile: [Windows]
+[2023.12.05-14.57.38:057][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.12.05-14.57.38:057][  0]LogHAL: Display: Platform has ~ 32 GB [34298605568 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.12.05-14.57.38:057][  0]LogInit: Going up to parent DeviceProfile []
+[2023.12.05-14.57.38:057][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.12.05-14.57.38:057][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Scalability.ini]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.12.05-14.57.38:058][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.12.05-14.57.38:065][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.12.05-14.57.38:065][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.12.05-14.57.38:065][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.12.05-14.57.38:065][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Engine.ini]
+[2023.12.05-14.57.38:065][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Config/Windows/Editor.ini]
+[2023.12.05-14.57.38:065][  0]LogInit: Computer: W75526
+[2023.12.05-14.57.38:065][  0]LogInit: User: 5CINCM67
+[2023.12.05-14.57.38:065][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.12.05-14.57.38:065][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.12.05-14.57.38:065][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.12.05-14.57.38:065][  0]LogMemory: Platform Memory Stats for Windows
+[2023.12.05-14.57.38:065][  0]LogMemory: Process Physical Memory: 144.04 MB used, 144.04 MB peak
+[2023.12.05-14.57.38:065][  0]LogMemory: Process Virtual Memory: 114.61 MB used, 114.61 MB peak
+[2023.12.05-14.57.38:065][  0]LogMemory: Physical Memory: 8379.24 MB used,  24330.46 MB free, 32709.70 MB total
+[2023.12.05-14.57.38:065][  0]LogMemory: Virtual Memory: 134189992.00 MB used,  27736.30 MB free, 134217728.00 MB total
+[2023.12.05-14.57.38:079][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.12.05-14.57.38:403][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.12.05-14.57.38:404][  0]LogInit: Using OS detected language (en-GB).
+[2023.12.05-14.57.38:404][  0]LogInit: Using OS detected locale (en-GB).
+[2023.12.05-14.57.38:409][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2023.12.05-14.57.38:753][  0]LogInit: Setting process to per monitor DPI aware
+[2023.12.05-14.57.38:781][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.12.05-14.57.38:827][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.12.05-14.57.38:827][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.12.05-14.57.41:130][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.12.05-14.57.41:132][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.12.05-14.57.41:132][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.12.05-14.57.41:132][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.12.05-14.57.41:132][  0]LogD3D11RHI: D3D11 adapters:
+[2023.12.05-14.57.41:330][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2023.12.05-14.57.41:330][  0]LogD3D11RHI:       5968/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI:     SubSysId    : 86981043
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI:     DedicatedVideoMemory : 6257901568 bytes
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI:     SharedSystemMemory : 17149302784 bytes
+[2023.12.05-14.57.41:333][  0]LogD3D11RHI:     AdapterLuid : 0 69162
+[2023.12.05-14.57.41:338][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.12.05-14.57.41:338][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2023.12.05-14.57.41:338][  0]LogWindows: EnumDisplayDevices:
+[2023.12.05-14.57.41:338][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2023.12.05-14.57.41:338][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2023.12.05-14.57.41:338][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.12.05-14.57.41:339][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.12.05-14.57.41:339][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:   Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:      Driver Date: 6-8-2023
+[2023.12.05-14.57.41:339][  0]LogRHI: Texture pool is 4177 MB (70% of 5968 MB)
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:     SubSysId    : 86981043
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:     DedicatedVideoMemory : 6257901568 bytes
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:     SharedSystemMemory : 17149302784 bytes
+[2023.12.05-14.57.41:339][  0]LogD3D11RHI:     AdapterLuid : 0 69162
+[2023.12.05-14.57.41:427][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.12.05-14.57.41:427][  0]LogD3D11RHI: Async texture creation enabled
+[2023.12.05-14.57.41:427][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.12.05-14.57.41:441][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.12.05-14.57.41:495][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.12.05-14.57.41:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.12.05-14.57.41:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.12.05-14.57.41:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.12.05-14.57.41:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.12.05-14.57.41:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.12.05-14.57.41:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.12.05-14.57.41:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.12.05-14.57.41:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.12.05-14.57.41:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.12.05-14.57.41:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.12.05-14.57.41:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.12.05-14.57.41:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.12.05-14.57.41:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.12.05-14.57.41:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.12.05-14.57.41:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.12.05-14.57.41:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.12.05-14.57.41:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.12.05-14.57.41:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.12.05-14.57.42:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.12.05-14.57.42:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.12.05-14.57.42:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.12.05-14.57.42:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.12.05-14.57.42:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.12.05-14.57.42:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.12.05-14.57.42:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.12.05-14.57.42:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.12.05-14.57.42:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.12.05-14.57.42:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.12.05-14.57.42:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.12.05-14.57.42:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.12.05-14.57.42:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.12.05-14.57.42:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.12.05-14.57.42:129][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.12.05-14.57.42:201][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.12.05-14.57.42:360][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.12.05-14.57.42:941][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.12.05-14.57.42:941][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Intermediate/Shaders/WorkingDirectory/18540/).
+[2023.12.05-14.57.42:941][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/5CINCM67/AppData/Local/Temp/UnrealShaderWorkingDir/8455704D4F8CFB2968EA419B29689815/'.
+[2023.12.05-14.57.42:941][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.12.05-14.57.42:941][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.12.05-14.57.42:941][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.12.05-14.57.45:861][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.12.05-14.57.46:118][  0]LogDerivedDataCache: Loaded boot cache 0.26s 99MB C:/Users/5CINCM67/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.12.05-14.57.46:118][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/5CINCM67/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.12.05-14.57.46:118][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.12.05-14.57.46:118][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.12.05-14.57.46:118][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.05-14.57.46:118][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.12.05-14.57.46:146][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.12.05-14.57.46:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.05-14.57.46:146][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.12.05-14.57.46:234][  0]LogDerivedDataCache: Speed tests for C:/Users/5CINCM67/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.09 seconds
+[2023.12.05-14.57.46:234][  0]LogDerivedDataCache: Display: Performance to C:/Users/5CINCM67/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=12.16MBs, RandomWriteSpeed=93.46MBs. Assigned SpeedClass 'Local'
+[2023.12.05-14.57.46:235][  0]LogDerivedDataCache: Using Local data cache path C:/Users/5CINCM67/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.12.05-14.57.46:235][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.12.05-14.57.46:235][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.12.05-14.57.46:273][  0]LogSlate: Using FreeType 2.10.0
+[2023.12.05-14.57.46:286][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.12.05-14.57.46:316][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2023.12.05-14.57.46:500][  0]LogInit: Selected Device Profile: [Windows]
+[2023.12.05-14.57.46:500][  0]LogInit: Active device profile: [000002701D42EC00][000002701A6E4AC0 49] Windows
+[2023.12.05-14.57.46:500][  0]LogInit: Profiles: [000002701D42EC00][000002701A6E4AC0 49] Windows, [000002701D3D6000][000002701A6E8C00 49] WindowsNoEditor, [000002701D42F900][0000027010418D40 49] WindowsServer, [000002701D3D5300][0000027010420EC0 49] WindowsClient, [000002701D42EB00][0000027010425040 49] IOS, [000002701D3D7500][00000270104291C0 49] iPadAir, [000002701D42CE00][000002701042D340 49] iPadAir2, [000002701D37D300][0000027010435600 49] IPadPro, [000002701D37D400][0000027010431640 49] iPadAir3, [000002701D3D7300][00000270104397C0 49] iPadAir4, [000002701D37E200][000002701043D940 49] iPadMini2, [000002701D3D6C00][0000027010441AC0 49] iPadMini3, [000002701D37EE00][00000270104440C0 49] iPadMini4, [000002701D3D6300][0000027010448240 49] iPadMini5, [000002701D3C0E00][0000027010450500 49] iPhone6, [000002701D3C0F00][000002701044C540 49] iPodTouch6, [000002701D42C300][000002701DDB4800 49] iPhone7, [000002701D42D900][0000027010454840 49] iPodTouch7, [000002701D37F300][000002701DDB89C0 49] iPhone5S, [000002701D42EA00][000002701DDBCB40 49] iPhone6Plus, [000002701D42EF00][000002701041CC80 49] iPhone6S, [000002701D3C0700][000002701DDC0DC0 49] iPhone6SPlus, [000002701D42E600][000002701DDC4F00 49] iPhone7Plus, [000002701D3C3000][000002701DDCD080 49] iPhoneSE, [000002701D42CF00][000002701DDD1200 49] iPhone8, [000002701D3C1400][000002701DDD5380 49] iPhone8Plus, [000002701D37D900][000002701DDD9500 49] iPhoneX, [000002701D3C0D00][000002701DDDD680 49] iPhoneXS, [000002701D37DC00][000002701DDE1800 49] iPhoneXSMax, [000002701D3C3600][000002701DE55980 49] iPhoneXR, [000002701D37C300][000002701DE59B00 49] iPhone11, [000002701D3C2000][000002701DE5C100 49] iPhone11Pro, [000002701D37E800][000002701DE60280 49] iPhone11ProMax, [000002701D3C3100][000002701DE64400 49] iPhoneSE2, [000002701D37CB00][000002701DE68580 49] iPhone12Mini, [000002701D3C2700][000002701DE6C700 49] iPhone12, [000002701D37D100][000002701DE70880 49] iPhone12Pro, [000002701D3C0400][000002701DE74A00 49] iPhone12ProMax, [000002701D37D700][000002701DE78B80 49] iPadPro105, [000002701D3C1200][000002701DE7CD00 49] iPadPro129, [000002701D37F000][000002701DDC8E40 49] iPadPro97, [000002701D3C1300][000002701DE90F80 49] iPadPro2_129, [000002701D37E900][000002701DEA10C0 49] iPad5, [000002701D3C0C00][0000027015991240 49] iPad6, [000002701D37ED00][00000270159AD3C0 49] iPad7, [000002701D3C3C00][00000270159FD540 49] iPad8, [000002701D37E700][0000027015A876C0 49] iPadPro11, [000002701D3C1D00][0000027015A8B840 49] iPadPro2_11, [000002701D37CD00][0000027015A8F9C0 49] iPadPro3_129, [000002701D3C2E00][000002701A8C1B40 49] iPadPro4_129, [000002701D37EC00][000002701A8D0140 49] AppleTV, [000002701D3C2D00][000002701DDEC2C0 49] AppleTV4K, [000002701D37E600][000002701DDF8440 49] TVOS, [000002701D3C0100][000002701DDFC5C0 49] Mac, [000002701D37E500][000002701DE26740 49] MacClient, [000002701D3C0200][000002701DE2E8C0 49] MacNoEditor, [000002701D37D000][000002701DE36A40 49] MacServer, [000002701D3C1500][000002701DE4ABC0 49] Linux, [000002701D37CC00][000002701DE4ED40 49] LinuxAArch64, [000002701D3C1600][000002701DEFCEC0 49] LinuxNoEditor, [000002701D37F500][000002701598D000 49] LinuxAArch64NoEditor, [000002701D3C1100][0000027015879140 49] LinuxClient, [000002701D37CF00][000002701595D280 49] LinuxAArch64Client, [000002701D3C0500][00000270159613C0 49] LinuxServer, [000002701D37EB00][0000027015969540 49] LinuxAArch64Server, [000002701D3C0800][000002701A96B6C0 49] Android, [000002701D37C500][000002701596D840 49] Android_Low, [000002701D3C2F00][00000270159719C0 49] Android_Mid, [000002701D37FB00][0000027015975B40 49] Android_High, [000002701D3C2200][0000027015978140 49] Android_Default, [000002701D37FA00][000002701597C2C0 49] Android_Adreno4xx, [000002701D3C3A00][0000027015984440 49] Android_Adreno5xx_Low, [000002701D37E100][000002701EE905C0 49] Android_Adreno5xx, [000002701D3C3200][000002701EE98740 49] Android_Adreno6xx, [000002701D37D500][000002701EE9C8C0 49] Android_Adreno6xx_Vulkan, [000002701D3C3500][000002701EEA0A40 49] Android_Mali_T6xx, [000002701D37C100][000002701EEAEBC0 49] Android_Mali_T7xx, [000002701D3C0A00][000002701EEB2D40 49] Android_Mali_T8xx, [000002701D37F600][000002701EEB6EC0 49] Android_Mali_G71, [000002701D42C700][000002701EEBB040 49] Android_Mali_G72, [000002701D3D7900][0000027015965180 49] Android_Mali_G72_Vulkan, [000002701D42DA00][00000270158AD2C0 49] Android_Mali_G76, [000002701D3D6B00][000002701E26D400 49] Android_Mali_G76_Vulkan, [000002701D42E000][000002701E27B540 49] Android_Mali_G77, [000002701D3D6F00][000002701E27F6C0 49] Android_Mali_G77_Vulkan, [000002701D42FC00][0000027015AD1840 49] Android_Mali_G78, [000002701D3D4500][0000027015B1D9C0 49] Android_Mali_G78_Vulkan, [000002701D42E800][000002701E729B40 49] Android_Mali_G710, [000002701D3D7F00][000002701E768140 49] Android_Mali_G710_Vulkan, [000002701D42E300][000002701E76C2C0 49] Android_Vulkan_SM5, [000002701D3D6700][000002701E770440 49] Android_PowerVR_G6xxx, [000002701D42CB00][000002701E7B45C0 49] Android_PowerVR_GT7xxx, [000002701D3D6500][000002701E7B8740 49] Android_PowerVR_GE8xxx, [000002701D42D200][000002701E7BC8C0 49] Android_PowerVR_GM9xxx, [000002701D3D4200][000002701585CA40 49] Android_PowerVR_GM9xxx_Vulkan, [000002701D42E700][0000027015860BC0 49] Android_TegraK1, [000002701D3D7200][0000027015864D40 49] Android_Unknown_Vulkan, [000002701D42F800][0000027015868EC0 49] Lumin, [000002701D3D7000][000002701586D040 49] Lumin_Desktop, [000002701D42E200][00000270158711C0 49] HoloLens, 
+[2023.12.05-14.57.46:770][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.12.05-14.57.46:770][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.12.05-14.57.46:770][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.12.05-14.57.46:770][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.12.05-14.57.46:771][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.12.05-14.57.46:819][  0]LogNetVersion: UnrealAnimation 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 311325001)
+[2023.12.05-14.57.47:791][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.12.05-14.57.47:905][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.12.05-14.57.47:914][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.12.05-14.57.47:914][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.12.05-14.57.47:915][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.12.05-14.57.48:468][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 571BF6D84E3190DDCC4E76A59DC3E2A8 | Instance: 867E7E68400CBBB4B390379395A7F2DA (W75526-18540).
+[2023.12.05-14.57.49:253][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.12.05-14.57.49:260][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.12.05-14.57.49:340][  0]LogPython: Using Python 3.7.7
+[2023.12.05-14.57.50:988][  0]SourceControl: Source control is disabled
+[2023.12.05-14.57.50:988][  0]SourceControl: Source control is disabled
+[2023.12.05-14.57.50:999][  0]SourceControl: Source control is disabled
+[2023.12.05-14.57.51:018][  0]SourceControl: Source control is disabled
+[2023.12.05-14.57.51:036][  0]SourceControl: Source control is disabled
+[2023.12.05-14.57.51:066][  0]LogUProjectInfo: Found projects:
+[2023.12.05-14.57.51:719][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.12.05-14.57.51:777][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.05-14.57.51:777][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.05-14.57.51:851][  0]LogOpenImageDenoise: OIDN starting up
+[2023.12.05-14.57.52:196][  0]LogCollectionManager: Loaded 0 collections in 0.001921 seconds
+[2023.12.05-14.57.52:264][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/Collections/' took 0.00s
+[2023.12.05-14.57.52:264][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/Developers/5CINCM67/Collections/' took 0.00s
+[2023.12.05-14.57.52:264][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/Collections/' took 0.00s
+[2023.12.05-14.57.52:264][  0]LogOcInput: OculusInput pre-init called
+[2023.12.05-14.57.52:692][  0]LogEngine: Initializing Engine...
+[2023.12.05-14.57.52:763][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.12.05-14.57.52:764][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.12.05-14.57.52:764][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.12.05-14.57.52:771][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2023.12.05-14.57.53:045][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.12.05-14.57.53:081][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.12.05-14.57.53:095][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.12.05-14.57.53:105][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.12.05-14.57.53:110][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.12.05-14.57.53:112][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.12.05-14.57.53:112][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.12.05-14.57.53:113][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.05-14.57.53:113][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.05-14.57.53:113][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.05-14.57.53:113][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.05-14.57.53:113][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.05-14.57.53:113][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.05-14.57.53:113][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.05-14.57.53:113][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.05-14.57.53:115][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.05-14.57.53:115][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.05-14.57.53:115][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.05-14.57.53:115][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.05-14.57.53:152][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.05-14.57.53:152][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.12.05-14.57.53:216][  0]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.12.05-14.57.53:218][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.05-14.57.53:241][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.05-14.57.53:241][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.05-14.57.53:243][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.05-14.57.53:243][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.05-14.57.53:243][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.05-14.57.53:243][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.05-14.57.53:243][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.05-14.57.53:243][  0]LogInit: FAudioDevice initialized.
+[2023.12.05-14.57.53:245][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.12.05-14.57.53:246][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.12.05-14.57.53:317][  0]LogDerivedDataCache: Saved boot cache 0.07s 99MB C:/Users/5CINCM67/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.12.05-14.57.53:670][  0]LogInit: Texture streaming: Enabled
+[2023.12.05-14.57.53:703][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.12.05-14.57.53:711][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.12.05-14.57.53:711][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.12.05-14.57.53:714][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.12.05-14.57.54:462][  0]LogInit: Transaction tracking system initialized
+[2023.12.05-14.57.54:528][  0]BlueprintLog: New page: Editor Load
+[2023.12.05-14.57.54:726][  0]LocalizationService: Localization service is disabled
+[2023.12.05-14.57.54:797][  0]TimingProfiler: Initialize
+[2023.12.05-14.57.54:798][  0]TimingProfiler: OnSessionChanged
+[2023.12.05-14.57.54:798][  0]LoadingProfiler: Initialize
+[2023.12.05-14.57.54:798][  0]LoadingProfiler: OnSessionChanged
+[2023.12.05-14.57.54:798][  0]NetworkingProfiler: Initialize
+[2023.12.05-14.57.54:798][  0]NetworkingProfiler: OnSessionChanged
+[2023.12.05-14.57.54:798][  0]MemoryProfiler: Initialize
+[2023.12.05-14.57.54:798][  0]MemoryProfiler: OnSessionChanged
+[2023.12.05-14.57.55:487][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.12.05-14.57.55:487][  0]LogCook: Display: Mobile HDR setting 1
+[2023.12.05-14.57.55:530][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/' took 0.01s
+[2023.12.05-14.57.56:359][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.12.05-14.57.56:449][  0]SourceControl: Source control is disabled
+[2023.12.05-14.57.56:469][  0]LogUnrealEdMisc: Loading editor; pre map load, took 25.219
+[2023.12.05-14.57.56:475][  0]Cmd: MAP LOAD FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.12.05-14.57.56:523][  0]LightingResults: New page: Lighting Build
+[2023.12.05-14.57.56:612][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.12.05-14.57.56:614][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.05-14.57.56:628][  0]MapCheck: New page: Map Check
+[2023.12.05-14.57.56:628][  0]LightingResults: New page: Lighting Build
+[2023.12.05-14.57.56:638][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.05-14.57.56:646][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.12.05-14.57.56:814][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2023.12.05-14.57.56:815][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.12.05-14.57.56:842][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.05-14.57.56:854][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.05-14.57.56:855][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.05-14.57.56:856][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.515ms to complete.
+[2023.12.05-14.57.56:856][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.384
+[2023.12.05-14.57.56:889][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.639
+[2023.12.05-14.57.57:076][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.05-14.57.57:081][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.05-14.57.57:086][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.05-14.57.57:091][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.05-14.57.57:135][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0073 seconds. Added 3831 classes and 930 folders.
+[2023.12.05-14.57.57:142][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.12.05-14.57.57:164][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.12.05-14.57.57:164][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:164][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.05-14.57.57:167][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:167][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.12.05-14.57.57:167][  0]LogPakFile: OnPakFileMounted2Time == 0.002408
+[2023.12.05-14.57.57:188][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.12.05-14.57.57:189][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:189][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.12.05-14.57.57:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.12.05-14.57.57:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.12.05-14.57.57:197][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.12.05-14.57.57:197][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:197][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.12.05-14.57.57:197][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:197][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.12.05-14.57.57:197][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.12.05-14.57.57:210][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.05-14.57.57:212][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:212][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.05-14.57.57:212][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:212][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.12.05-14.57.57:212][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.12.05-14.57.57:217][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.12.05-14.57.57:217][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:217][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.12.05-14.57.57:217][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:217][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.12.05-14.57.57:217][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.12.05-14.57.57:223][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.12.05-14.57.57:223][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:223][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.12.05-14.57.57:223][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:223][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.12.05-14.57.57:223][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.12.05-14.57.57:228][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.12.05-14.57.57:228][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:229][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.12.05-14.57.57:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.12.05-14.57.57:229][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.12.05-14.57.57:236][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.12.05-14.57.57:236][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:236][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.12.05-14.57.57:236][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:236][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.12.05-14.57.57:236][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.12.05-14.57.57:242][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.12.05-14.57.57:242][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:242][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.12.05-14.57.57:242][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:242][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.12.05-14.57.57:242][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.12.05-14.57.57:251][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.12.05-14.57.57:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.12.05-14.57.57:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.12.05-14.57.57:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.12.05-14.57.57:257][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.12.05-14.57.57:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.12.05-14.57.57:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.12.05-14.57.57:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.12.05-14.57.57:263][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.12.05-14.57.57:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.12.05-14.57.57:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.12.05-14.57.57:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.12.05-14.57.57:270][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.05-14.57.57:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.05-14.57.57:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.12.05-14.57.57:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.12.05-14.57.57:276][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.12.05-14.57.57:276][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:276][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.12.05-14.57.57:276][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:276][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.12.05-14.57.57:276][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.12.05-14.57.57:282][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.12.05-14.57.57:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.12.05-14.57.57:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.12.05-14.57.57:282][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.12.05-14.57.57:288][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.12.05-14.57.57:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.05-14.57.57:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.12.05-14.57.57:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.12.05-14.57.57:294][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.12.05-14.57.57:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.12.05-14.57.57:294][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:294][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.12.05-14.57.57:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.12.05-14.57.57:300][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.12.05-14.57.57:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.12.05-14.57.57:300][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:300][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.12.05-14.57.57:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.12.05-14.57.57:306][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.05-14.57.57:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.05-14.57.57:306][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:306][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.12.05-14.57.57:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.12.05-14.57.57:315][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.05-14.57.57:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.05-14.57.57:315][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:315][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.12.05-14.57.57:315][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.12.05-14.57.57:321][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.12.05-14.57.57:321][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:321][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.05-14.57.57:321][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:321][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.12.05-14.57.57:321][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.12.05-14.57.57:327][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.12.05-14.57.57:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.12.05-14.57.57:327][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:327][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.12.05-14.57.57:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.12.05-14.57.57:333][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.12.05-14.57.57:333][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:333][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.12.05-14.57.57:333][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:333][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.12.05-14.57.57:333][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.12.05-14.57.57:339][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.12.05-14.57.57:339][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:339][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.12.05-14.57.57:339][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:339][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.12.05-14.57.57:339][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.12.05-14.57.57:345][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.05-14.57.57:345][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:345][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.05-14.57.57:345][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:345][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.12.05-14.57.57:345][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.12.05-14.57.57:351][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.12.05-14.57.57:351][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.05-14.57.57:351][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.12.05-14.57.57:351][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.05-14.57.57:351][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.12.05-14.57.57:351][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.12.05-14.57.57:590][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.12.05-14.57.57:601][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.12.05-14.57.57:691][  0]LogSlate: Took 0.005481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.12.05-14.57.57:699][  0]LogSlate: Took 0.005947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.05-14.57.57:705][  0]LogSlate: Took 0.005423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.12.05-14.57.57:714][  0]LogSlate: Took 0.004817 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.12.05-14.57.57:918][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2023.12.05-14.57.58:057][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.12.05-14.57.58:057][  0]LogLoad: (Engine Initialization) Total time: 26.81 seconds
+[2023.12.05-14.57.58:057][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.12.05-14.57.58:102][  0]LogAssetRegistry: Asset discovery search completed in 11.7874 seconds
+[2023.12.05-14.57.58:133][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.12.05-14.57.58:141][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.12.05-14.57.59:088][ 95]LogSlate: Took 0.005612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.05-15.17.44:975][757]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7d1b5cc5-ca07-4a87-af75-a4647dbeabbb}.
+[2023.12.05-15.17.44:975][757]LogAudioMixer: Resetting audio stream to device id 
+[2023.12.05-15.17.44:983][757]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.05-15.17.44:983][757]LogAudioMixer: Display: 1: FrontRight
+[2023.12.05-15.25.55:362][219]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7d1b5cc5-ca07-4a87-af75-a4647dbeabbb}.
+[2023.12.05-15.25.55:362][219]LogAudioMixer: Resetting audio stream to device id 
+[2023.12.05-15.25.55:369][219]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.05-15.25.55:369][219]LogAudioMixer: Display: 1: FrontRight
+[2023.12.05-15.26.07:087][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.12.05-15.26.07:154][571]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/FirstPersonExampleMap085B95FB4824BE33A987FD8E04A7D2E2.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2023.12.05-15.26.07:718][571]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/FirstPersonExampleMap_BuiltDataB763A6454E192650D38CEB902EB8A480.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.12.05-15.26.07:758][571]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.05-15.26.07:759][571]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.12.05-15.26.07:759][571]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.12.05-15.26.08:052][591]LogSlate: Took 0.004343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.05-15.26.11:879][973]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.12.05-15.26.11:895][973]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.12.05-15.26.15:338][373]LogContentBrowser: Attempting asset rename: NewMaterial -> RedColor
+[2023.12.05-15.26.15:340][373]LogContentBrowser: End creating deferred item NewMaterial
+[2023.12.05-15.26.23:257][172]LogSlate: Took 0.005091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.05-15.26.24:433][302]LogContentBrowser: Deferred new asset file creation: RedColor_Inst
+[2023.12.05-15.26.24:457][302]LogContentBrowser: Creating deferred item: RedColor_Inst
+[2023.12.05-15.26.29:012][824]LogContentBrowser: Attempting asset rename: RedColor_Inst -> BlueColor
+[2023.12.05-15.26.29:012][824]LogContentBrowser: End creating deferred item RedColor_Inst
+[2023.12.05-15.26.30:375][981]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/RedColor.RedColor
+[2023.12.05-15.26.30:389][981]LogMaterial: Display: Missing cached shadermap for RedColor in PCD3D_SM5, Default, SM5 (DDC key hash: 847B7FB0ECA5632A78512453EB1CF71A7026A10A), compiling. 
+[2023.12.05-15.26.30:429][981]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.30:463][981]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.12.05-15.26.30:559][981]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.12.05-15.26.30:807][981]LogMaterial: Display: Missing cached shadermap for RedColor in PCD3D_SM5, Default, SM5 (DDC key hash: B54D66E7F7F08FE965AFEE62D85CCA279040EF50), compiling. 
+[2023.12.05-15.26.30:829][981]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.05-15.26.30:839][981]LogSlate: Took 0.005502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.05-15.26.30:950][981]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.30:950][981]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.30:950][981]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.12.05-15.26.30:950][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.12.05-15.26.30:950][981]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2023.12.05-15.26.30:950][981]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2023.12.05-15.26.30:950][981]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.30:950][981]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.32:255][121]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.12.05-15.26.32:255][121]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.32:259][121]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.05-15.26.32:259][121]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2023.12.05-15.26.32:259][121]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.12.05-15.26.32:259][121]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.12.05-15.26.32:259][121]LogShaderCompilers: Display: ================================================
+[2023.12.05-15.26.32:322][127]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.12.05-15.26.32:322][127]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.32:333][128]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.05-15.26.32:950][192]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.05-15.26.32:950][192]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.05-15.26.32:950][192]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.05-15.26.32:950][192]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.05-15.26.36:946][667]LogMaterial: Display: Missing cached shadermap for RedColor in PCD3D_SM5, Default, SM5 (DDC key hash: 818BB8165C8D861FB1FE71A874D4CB1CEE74EA2F), compiling. 
+[2023.12.05-15.26.36:947][667]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AF7AF04A67015A04367F956C23636394482A9376), compiling. 
+[2023.12.05-15.26.36:950][667]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.05-15.26.36:979][669]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.36:979][669]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.12.05-15.26.36:979][669]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.12.05-15.26.36:979][669]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.36:979][669]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.05-15.26.36:979][669]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.05-15.26.36:979][669]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.05-15.26.36:979][669]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.05-15.26.39:924][ 13]LogMaterial: Display: Missing cached shadermap for RedColor in PCD3D_SM5, Default, SM5 (DDC key hash: 6881C02715CAB9E64B8E6978FE59E8474F2BEF7C), compiling. 
+[2023.12.05-15.26.39:925][ 13]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B12394DC87EFC358EE01A8BE324E1DF2BF241D54), compiling. 
+[2023.12.05-15.26.39:929][ 13]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.05-15.26.39:934][ 14]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.39:973][ 14]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.39:973][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.12.05-15.26.39:973][ 14]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.12.05-15.26.39:973][ 14]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2023.12.05-15.26.39:973][ 14]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2023.12.05-15.26.39:973][ 14]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.39:973][ 14]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.40:231][ 38]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.12.05-15.26.40:231][ 38]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.40:332][ 49]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.12.05-15.26.40:332][ 49]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.40:345][ 50]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.05-15.26.41:031][118]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.05-15.26.41:035][118]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.05-15.26.41:035][118]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.05-15.26.41:035][118]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.05-15.26.41:035][118]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.05-15.26.45:840][659]LogMaterial: Display: Missing cached shadermap for RedColor in PCD3D_SM5, Default, SM5 (DDC key hash: 135E531CB971098BBAEAE4731EF23A39F0476893), compiling. 
+[2023.12.05-15.26.45:840][659]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 56CF00B235CA6C812A930DBFC00AEE411B2E527E), compiling. 
+[2023.12.05-15.26.45:842][659]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.05-15.26.45:848][660]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.45:848][660]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.12.05-15.26.45:848][660]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.12.05-15.26.45:848][660]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.45:854][661]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.45:855][661]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2023.12.05-15.26.45:855][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2023.12.05-15.26.45:855][661]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.45:857][661]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.46:132][688]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.12.05-15.26.46:132][688]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.46:224][698]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.12.05-15.26.46:224][698]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.46:238][699]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.05-15.26.46:451][719]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.12.05-15.26.46:451][719]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.46:510][726]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.12.05-15.26.46:510][726]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.46:945][773]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.12.05-15.26.46:945][773]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.12.05-15.26.46:945][773]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.05-15.26.46:945][773]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.05-15.26.47:138][796]LogMaterial: Display: Missing cached shadermap for RedColor in PCD3D_SM5, Default, SM5 (DDC key hash: B369427F5585AB16DBE701FF62028CC2C828EFAF), compiling. 
+[2023.12.05-15.26.47:139][796]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BA79B0E5D1F2B6F3AE55A5F3571BF88797A33201), compiling. 
+[2023.12.05-15.26.47:140][796]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.05-15.26.47:145][796]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.05-15.26.47:162][798]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.05-15.26.47:174][799]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.12.05-15.26.47:174][799]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.12.05-15.26.47:174][799]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.05-15.26.47:174][799]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.05-15.26.47:880][882]LogMaterialEditor: Saving and Compiling material RedColor
+[2023.12.05-15.26.50:073][882]LogMaterial: Display: Missing cached shadermap for RedColor in PCD3D_SM5, Default, SM5 (DDC key hash: 3B95712DDD5B89DAE93F4F3D0E1F7BAD23596655), compiling. 
+[2023.12.05-15.26.50:100][882]LogMaterial: Display: Missing cached shadermap for RedColor in PCD3D_SM5, Default, SM5 (DDC key hash: 5F6D86F403AE9084002839D6BDF7F8FDDF7DA1A0), compiling. 
+[2023.12.05-15.26.50:124][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.12.05-15.26.50:128][882]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.50:348][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.12.05-15.26.50:348][882]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.05-15.26.50:348][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.05-15.26.50:393][882]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.50:399][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2023.12.05-15.26.50:399][882]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.12.05-15.26.50:399][882]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2023.12.05-15.26.50:399][882]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.12.05-15.26.50:413][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedColor" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/RedColor.uasset" SILENT=true
+[2023.12.05-15.26.50:418][882]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/RedColorDEE28D044A4B3BE26F31F99805C59A81.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/RedColor.uasset'
+[2023.12.05-15.26.50:431][882]AssetCheck: New page: Asset Save: RedColor
+[2023.12.05-15.26.50:431][882]LogContentValidation: Display: Validating Material /Game/RedColor.RedColor
+[2023.12.05-15.26.50:436][882]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.05-15.26.51:043][937]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.12.05-15.26.51:043][937]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.12.05-15.26.51:043][937]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.05-15.26.51:043][937]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.05-15.26.53:305][164]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/BlueColor.BlueColor
+[2023.12.05-15.26.53:413][164]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:1).
+[2023.12.05-15.27.03:417][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueColor" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BlueColor.uasset" SILENT=true
+[2023.12.05-15.27.03:422][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.12.05-15.27.03:426][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.05-15.27.03:430][295]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/BlueColor7D9AEEFF46B51649085216AF906FD343.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BlueColor.uasset'
+[2023.12.05-15.27.03:439][295]AssetCheck: New page: Asset Save: BlueColor
+[2023.12.05-15.27.03:439][295]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/BlueColor.BlueColor
+[2023.12.05-15.27.04:327][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueColor" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BlueColor.uasset" SILENT=true
+[2023.12.05-15.27.04:331][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.05-15.27.04:335][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.05-15.27.04:337][392]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/BlueColor08AA60554705A8591000689DA284C3E2.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BlueColor.uasset'
+[2023.12.05-15.27.04:344][392]AssetCheck: New page: Asset Save: BlueColor
+[2023.12.05-15.27.04:344][392]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/BlueColor.BlueColor
+[2023.12.05-15.28.13:797][517]LogContentBrowser: Attempting asset rename: BlueColor -> RedColorInstance
+[2023.12.05-15.28.13:852][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedColorInstance" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/RedColorInstance.uasset" SILENT=true
+[2023.12.05-15.28.13:857][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.12.05-15.28.13:861][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.13:865][517]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/RedColorInstance4F29B7D54915D0C4D6E1A7AE65DB424E.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/RedColorInstance.uasset'
+[2023.12.05-15.28.13:934][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.12.05-15.28.13:944][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.12.05-15.28.13:948][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.13:974][517]AssetCheck: New page: Asset Save: RedColorInstance
+[2023.12.05-15.28.13:974][517]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/RedColorInstance.RedColorInstance
+[2023.12.05-15.28.15:883][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.05-15.28.15:932][741]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/FirstPersonExampleMap2765418B409519CFAC8A85AC48072808.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2023.12.05-15.28.16:223][741]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/FirstPersonExampleMap_BuiltDataFFEEFC824E3194204B1A0C83B3567333.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.12.05-15.28.16:230][741]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.05-15.28.16:231][741]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.12.05-15.28.16:231][741]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.12.05-15.28.23:122][460]LogContentBrowser: Attempting asset rename: RedColor -> BaseMaterial
+[2023.12.05-15.28.23:169][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseMaterial" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BaseMaterial.uasset" SILENT=true
+[2023.12.05-15.28.23:174][460]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/BaseMaterial8817B866407D08DEC4D58ABF0A260BB7.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BaseMaterial.uasset'
+[2023.12.05-15.28.23:216][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.12.05-15.28.23:225][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.05-15.28.23:229][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.23:247][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedColorInstance" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/RedColorInstance.uasset" SILENT=true
+[2023.12.05-15.28.23:251][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.23:255][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.23:257][460]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/RedColorInstance05F8DA4842573E2392F96B8891682D26.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/RedColorInstance.uasset'
+[2023.12.05-15.28.23:278][460]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.05-15.28.23:278][460]LogContentValidation: Display: Validating Material /Game/BaseMaterial.BaseMaterial
+[2023.12.05-15.28.23:278][460]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/RedColorInstance.RedColorInstance
+[2023.12.05-15.28.28:089][952]LogContentBrowser: Attempting asset rename: RedColorInstance -> BaseMaterialInstancne
+[2023.12.05-15.28.28:137][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseMaterialInstancne" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BaseMaterialInstancne.uasset" SILENT=true
+[2023.12.05-15.28.28:141][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.12.05-15.28.28:145][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.28:150][952]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/BaseMaterialInstancne3A56DA5D484D5625C08637981B9A15F2.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BaseMaterialInstancne.uasset'
+[2023.12.05-15.28.28:183][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.28:192][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.12.05-15.28.28:196][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.28:212][952]AssetCheck: New page: Asset Save: BaseMaterialInstancne
+[2023.12.05-15.28.28:212][952]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/BaseMaterialInstancne.BaseMaterialInstancne
+[2023.12.05-15.28.30:048][141]LogContentBrowser: Attempting asset rename: BaseMaterialInstancne -> BaseMaterialInstancne
+[2023.12.05-15.28.38:981][179]LogContentBrowser: Attempting asset rename: BaseMaterialInstancne -> BaseMaterialInstance
+[2023.12.05-15.28.39:020][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseMaterialInstance" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BaseMaterialInstance.uasset" SILENT=true
+[2023.12.05-15.28.39:024][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.39:029][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.39:033][179]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/BaseMaterialInstance93A2D33343E73C556279CF8216457154.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BaseMaterialInstance.uasset'
+[2023.12.05-15.28.39:067][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.12.05-15.28.39:075][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.12.05-15.28.39:080][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.39:096][179]AssetCheck: New page: Asset Save: BaseMaterialInstance
+[2023.12.05-15.28.39:096][179]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/BaseMaterialInstance.BaseMaterialInstance
+[2023.12.05-15.28.44:032][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseMaterialInstance" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BaseMaterialInstance.uasset" SILENT=true
+[2023.12.05-15.28.44:036][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.05-15.28.44:041][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.12.05-15.28.44:042][721]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/BaseMaterialInstanceF92A94CB452F5DE5EB6B6A99E8CC4460.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BaseMaterialInstance.uasset'
+[2023.12.05-15.28.44:050][721]AssetCheck: New page: Asset Save: BaseMaterialInstance
+[2023.12.05-15.28.44:050][721]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/BaseMaterialInstance.BaseMaterialInstance
+[2023.12.05-15.31.08:542][252]LogSlate: Window 'BaseMaterialInstance' being destroyed
+[2023.12.05-15.31.19:839][557]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.05-15.31.27:932][408]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject" -game -rocket -progress
+[2023.12.05-15.31.28:338][408]Discovering modules, targets and source code for project...
+[2023.12.05-15.31.33:468][408]Binding IntelliSense data...
+[2023.12.05-15.31.40:722][408]Binding IntelliSense data... 100%
+[2023.12.05-15.31.40:722][408]Writing project files...
+[2023.12.05-15.31.44:849][408]Writing project files... 100%
+[2023.12.05-15.31.44:958][408]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2023.12.05-15.31.44:980][408]Candidate modules for hot reload:
+[2023.12.05-15.31.44:980][408]  UnrealAnimation
+[2023.12.05-15.31.44:980][408]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealAnimation,5055 UnrealAnimationEditor Win64 Development -Project="C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject" "C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject"  -IgnoreJunk]
+[2023.12.05-15.32.09:521][408]CompilerResultsLog: New page: Compilation - 5 Dec 2023, 15:32:09
+[2023.12.05-15.32.09:522][408]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises).
+[2023.12.05-15.32.09:522][408]CompilerResultsLog: Creating makefile for UnrealAnimationEditor (no existing makefile)
+[2023.12.05-15.32.09:522][408]CompilerResultsLog: Parsing headers for UnrealAnimationEditor
+[2023.12.05-15.32.09:522][408]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\UnrealAnimation.uproject" "C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UnrealAnimationEditor\Development\UnrealAnimationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\5CINCM67\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.12.05-15.32.09:522][408]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.12.05-15.32.09:522][408]CompilerResultsLog: Reflection code generated for UnrealAnimationEditor in 11.5001248 seconds
+[2023.12.05-15.32.09:522][408]CompilerResultsLog: Building UnrealAnimationEditor...
+[2023.12.05-15.32.09:522][408]CompilerResultsLog: Using Visual Studio 2022 14.37.32824 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.05-15.32.09:522][408]CompilerResultsLog: Building 6 actions with 8 processes...
+[2023.12.05-15.32.09:522][408]CompilerResultsLog:   [1/6] UnrealAnimation.init.gen.cpp
+[2023.12.05-15.32.09:522][408]CompilerResultsLog:   [2/6] MyMaterialChangeActor.cpp
+[2023.12.05-15.32.09:522][408]CompilerResultsLog:   [3/6] MyMaterialChangeActor.gen.cpp
+[2023.12.05-15.32.09:522][408]CompilerResultsLog:   [4/6] UE4Editor-UnrealAnimation-5055.lib
+[2023.12.05-15.32.09:522][408]CompilerResultsLog:      Creating library C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-5055.lib and object C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-5055.exp
+[2023.12.05-15.32.09:522][408]CompilerResultsLog:   [5/6] UE4Editor-UnrealAnimation-5055.dll
+[2023.12.05-15.32.09:522][408]CompilerResultsLog:      Creating library C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-5055.suppressed.lib and object C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-5055.suppressed.exp
+[2023.12.05-15.32.09:522][408]CompilerResultsLog:   [6/6] UnrealAnimationEditor.target
+[2023.12.05-15.32.09:522][408]CompilerResultsLog: Total time in Parallel executor: 10.93 seconds
+[2023.12.05-15.32.09:522][408]CompilerResultsLog: Total execution time: 24.46 seconds
+[2023.12.05-15.32.09:522][408]LogMainFrame: MainFrame: Module compiling took 24.565 seconds
+[2023.12.05-15.32.09:708][408]LogClass: Could not find existing class MyMaterialChangeActor in package /Script/UnrealAnimation for HotReload, assuming new class
+[2023.12.05-15.32.09:716][408]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UnrealAnimation' in 0.0003 seconds. Added 10 classes and 2 folders.
+[2023.12.05-15.32.09:719][408]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.12.05-15.32.09:760][408]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0073 seconds. Added 3832 classes and 930 folders.
+[2023.12.05-15.32.09:761][408]Display: HotReload took 24.8s.
+[2023.12.05-15.32.09:771][408]Warning: HotReload operation took 24.8s.
+[2023.12.05-15.32.09:872][408]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.12.05-15.32.09:893][408]LogHotReload: New module detected: UE4Editor-UnrealAnimation-5055.dll
+[2023.12.05-15.32.09:972][409]LogHotReload: Starting Hot-Reload from IDE
+[2023.12.05-15.32.10:210][409]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UnrealAnimation' in 0.0002 seconds. Added 10 classes and 2 folders.
+[2023.12.05-15.32.10:212][409]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.12.05-15.32.10:221][409]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0074 seconds. Added 3832 classes and 930 folders.
+[2023.12.05-15.32.10:224][409]Display: HotReload took  0.3s.
+[2023.12.05-15.32.25:765][416]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Source/UnrealAnimation/MyMaterialChangeActor.h'
+[2023.12.05-15.32.25:846][416]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Source/UnrealAnimation/MyMaterialChangeActor.cpp'
+[2023.12.05-15.35.55:639][278]LogVSAccessor: Warning: Couldn't save all documents
+[2023.12.05-15.35.55:642][278]Candidate modules for hot reload:
+[2023.12.05-15.35.55:642][278]  UnrealAnimation
+[2023.12.05-15.35.55:642][278]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealAnimation,4860 UnrealAnimationEditor Win64 Development -Project="C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject" "C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject"  -IgnoreJunk]
+[2023.12.05-15.35.55:645][278]Warning: Starting HotReload took  0.0s.
+[2023.12.05-15.35.56:792][365]CompilerResultsLog: New page: Compilation - 5 Dec 2023, 15:35:56
+[2023.12.05-15.35.56:792][365]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises).
+[2023.12.05-15.35.56:792][365]CompilerResultsLog: Parsing headers for UnrealAnimationEditor
+[2023.12.05-15.35.56:792][365]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\UnrealAnimation.uproject" "C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UnrealAnimationEditor\Development\UnrealAnimationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\5CINCM67\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.12.05-15.35.56:792][365]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.12.05-15.35.56:792][365]CompilerResultsLog: Error: C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Source/UnrealAnimation/MyMaterialChangeActor.h(8) : Error: #include found after .generated.h file - the .generated.h file should always be the last #include in a header
+[2023.12.05-15.35.56:792][365]LogMainFrame: MainFrame: Module compiling took 1.153 seconds
+[2023.12.05-15.35.56:805][365]Warning: HotReload failed, recompile failed
+[2023.12.05-15.37.59:384][951]LogSlate: Window 'Message Log' being destroyed
+[2023.12.05-15.37.59:389][951]LogSlate: Window 'Message Log' being destroyed
+[2023.12.05-15.38.00:198][ 47]LogVSAccessor: Warning: Couldn't save all documents
+[2023.12.05-15.38.00:201][ 47]Candidate modules for hot reload:
+[2023.12.05-15.38.00:201][ 47]  UnrealAnimation
+[2023.12.05-15.38.00:201][ 47]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealAnimation,3504 UnrealAnimationEditor Win64 Development -Project="C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject" "C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject"  -IgnoreJunk]
+[2023.12.05-15.38.00:204][ 47]Warning: Starting HotReload took  0.0s.
+[2023.12.05-15.38.01:248][119]CompilerResultsLog: New page: Compilation - 5 Dec 2023, 15:38:01
+[2023.12.05-15.38.01:248][119]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises).
+[2023.12.05-15.38.01:248][119]CompilerResultsLog: Parsing headers for UnrealAnimationEditor
+[2023.12.05-15.38.01:248][119]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\UnrealAnimation.uproject" "C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UnrealAnimationEditor\Development\UnrealAnimationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\5CINCM67\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.12.05-15.38.01:248][119]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.12.05-15.38.01:248][119]CompilerResultsLog: Error: C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Source/UnrealAnimation/MyMaterialChangeActor.h(10) : Error: #include found after .generated.h file - the .generated.h file should always be the last #include in a header
+[2023.12.05-15.38.01:248][119]LogMainFrame: MainFrame: Module compiling took 1.050 seconds
+[2023.12.05-15.38.01:248][119]Warning: HotReload failed, recompile failed
+[2023.12.05-15.38.41:758][904]LogVSAccessor: Warning: Couldn't save all documents
+[2023.12.05-15.38.41:762][904]Candidate modules for hot reload:
+[2023.12.05-15.38.41:762][904]  UnrealAnimation
+[2023.12.05-15.38.41:762][904]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealAnimation,5767 UnrealAnimationEditor Win64 Development -Project="C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject" "C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject"  -IgnoreJunk]
+[2023.12.05-15.38.41:765][904]Warning: Starting HotReload took  0.0s.
+[2023.12.05-15.38.46:112][373]CompilerResultsLog: New page: Compilation - 5 Dec 2023, 15:38:46
+[2023.12.05-15.38.46:112][373]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises).
+[2023.12.05-15.38.46:112][373]CompilerResultsLog: Parsing headers for UnrealAnimationEditor
+[2023.12.05-15.38.46:112][373]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\UnrealAnimation.uproject" "C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UnrealAnimationEditor\Development\UnrealAnimationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\5CINCM67\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.12.05-15.38.46:112][373]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.12.05-15.38.46:112][373]CompilerResultsLog: Reflection code generated for UnrealAnimationEditor in 3.011844 seconds
+[2023.12.05-15.38.46:112][373]CompilerResultsLog: Building UnrealAnimationEditor...
+[2023.12.05-15.38.46:112][373]CompilerResultsLog: Using Visual Studio 2022 14.37.32824 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.05-15.38.46:112][373]CompilerResultsLog: Building 6 actions with 8 processes...
+[2023.12.05-15.38.46:112][373]CompilerResultsLog:   [1/6] MyMaterialChangeActor.cpp
+[2023.12.05-15.38.46:112][373]CompilerResultsLog:    C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Source\UnrealAnimation\MyMaterialChangeActor.cpp(21) : error C2065: 'MyMat': undeclared identifier
+[2023.12.05-15.38.46:112][373]CompilerResultsLog:   [2/6] UnrealAnimation.init.gen.cpp
+[2023.12.05-15.38.46:112][373]CompilerResultsLog:   [3/6] MyMaterialChangeActor.gen.cpp
+[2023.12.05-15.38.46:112][373]LogMainFrame: MainFrame: Module compiling took 4.353 seconds
+[2023.12.05-15.38.46:112][373]Warning: HotReload failed, recompile failed
+[2023.12.05-15.39.26:542][203]LogSlate: Window 'Message Log' being destroyed
+[2023.12.05-15.39.26:546][203]LogSlate: Window 'Message Log' being destroyed
+[2023.12.05-15.39.27:329][288]LogVSAccessor: Warning: Couldn't save all documents
+[2023.12.05-15.39.27:332][288]Candidate modules for hot reload:
+[2023.12.05-15.39.27:332][288]  UnrealAnimation
+[2023.12.05-15.39.27:332][288]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealAnimation,4967 UnrealAnimationEditor Win64 Development -Project="C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject" "C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject"  -IgnoreJunk]
+[2023.12.05-15.39.27:335][288]Warning: Starting HotReload took  0.0s.
+[2023.12.05-15.39.29:317][454]CompilerResultsLog: New page: Compilation - 5 Dec 2023, 15:39:29
+[2023.12.05-15.39.29:317][454]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises).
+[2023.12.05-15.39.29:317][454]CompilerResultsLog: Invalidating makefile for UnrealAnimationEditor (MyMaterialChangeActor.cpp.obj.response modified)
+[2023.12.05-15.39.29:317][454]CompilerResultsLog: Parsing headers for UnrealAnimationEditor
+[2023.12.05-15.39.29:317][454]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\UnrealAnimation.uproject" "C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UnrealAnimationEditor\Development\UnrealAnimationEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\5CINCM67\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.12.05-15.39.29:317][454]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.12.05-15.39.29:317][454]CompilerResultsLog: Error: C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Source/UnrealAnimation/MyMaterialChangeActor.h(9) : Error: #include found after .generated.h file - the .generated.h file should always be the last #include in a header
+[2023.12.05-15.39.29:317][454]LogMainFrame: MainFrame: Module compiling took 1.987 seconds
+[2023.12.05-15.39.29:317][454]Warning: HotReload failed, recompile failed
+[2023.12.05-15.39.56:586][102]LogSlate: Window 'Message Log' being destroyed
+[2023.12.05-15.39.56:588][102]LogSlate: Window 'Message Log' being destroyed
+[2023.12.05-15.39.58:429][221]LogVSAccessor: Warning: Couldn't save all documents
+[2023.12.05-15.39.58:432][221]Candidate modules for hot reload:
+[2023.12.05-15.39.58:432][221]  UnrealAnimation
+[2023.12.05-15.39.58:432][221]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealAnimation,0803 UnrealAnimationEditor Win64 Development -Project="C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject" "C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject"  -IgnoreJunk]
+[2023.12.05-15.39.58:435][221]Warning: Starting HotReload took  0.0s.
+[2023.12.05-15.40.02:371][631]CompilerResultsLog: New page: Compilation - 5 Dec 2023, 15:40:02
+[2023.12.05-15.40.02:371][631]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises).
+[2023.12.05-15.40.02:371][631]CompilerResultsLog: Invalidating makefile for UnrealAnimationEditor (MyMaterialChangeActor.cpp.obj.response modified)
+[2023.12.05-15.40.02:371][631]CompilerResultsLog: Building UnrealAnimationEditor...
+[2023.12.05-15.40.02:371][631]CompilerResultsLog: Using Visual Studio 2022 14.37.32824 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.05-15.40.02:371][631]CompilerResultsLog: Building 6 actions with 8 processes...
+[2023.12.05-15.40.02:371][631]CompilerResultsLog:   [1/6] UnrealAnimation.init.gen.cpp
+[2023.12.05-15.40.02:371][631]CompilerResultsLog:   [2/6] MyMaterialChangeActor.cpp
+[2023.12.05-15.40.02:371][631]CompilerResultsLog:   [3/6] MyMaterialChangeActor.gen.cpp
+[2023.12.05-15.40.02:371][631]CompilerResultsLog:   [4/6] UE4Editor-UnrealAnimation-0803.lib
+[2023.12.05-15.40.02:371][631]CompilerResultsLog:      Creating library C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-0803.lib and object C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-0803.exp
+[2023.12.05-15.40.02:371][631]CompilerResultsLog:   [5/6] UE4Editor-UnrealAnimation-0803.dll
+[2023.12.05-15.40.02:371][631]CompilerResultsLog:      Creating library C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-0803.suppressed.lib and object C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-0803.suppressed.exp
+[2023.12.05-15.40.02:371][631]CompilerResultsLog:   [6/6] UnrealAnimationEditor.target
+[2023.12.05-15.40.02:371][631]CompilerResultsLog: Total time in Parallel executor: 1.92 seconds
+[2023.12.05-15.40.02:371][631]CompilerResultsLog: Total execution time: 3.86 seconds
+[2023.12.05-15.40.02:371][631]LogMainFrame: MainFrame: Module compiling took 3.942 seconds
+[2023.12.05-15.40.02:549][631]LogClass: Could not find existing class MyMaterialChangeActor in package /Script/UnrealAnimation for HotReload, assuming new class
+[2023.12.05-15.40.02:554][631]LogHotReload: Re-instancing MyMaterialChangeActor after hot-reload.
+[2023.12.05-15.40.02:568][631]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UnrealAnimation' in 0.0003 seconds. Added 10 classes and 2 folders.
+[2023.12.05-15.40.02:571][631]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.12.05-15.40.02:605][631]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0070 seconds. Added 3832 classes and 930 folders.
+[2023.12.05-15.40.02:605][631]Display: HotReload took  4.2s.
+[2023.12.05-15.40.04:380][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.05-15.40.04:425][810]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/FirstPersonExampleMap10A57F35466A91C773FF2A8C66B86393.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2023.12.05-15.40.04:720][810]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/FirstPersonExampleMap_BuiltDataAF25F89A4B805D0EF7EB06B3FD0F8C06.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.12.05-15.40.04:729][810]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.05-15.40.04:729][810]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.12.05-15.40.04:729][810]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.12.05-15.40.34:067][107]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyMaterialChangeActor_BP.MyMaterialChangeActor_BP
+[2023.12.05-15.40.34:755][107]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.12.05-15.40.35:485][107]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2023.12.05-15.40.59:707][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaterialChangeActor_BP" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset" SILENT=true
+[2023.12.05-15.40.59:717][762]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/MyMaterialChangeActor_BPDE8A7D87437A573C3E9A7098E67B5DB3.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset'
+[2023.12.05-15.40.59:728][762]AssetCheck: New page: Asset Save: MyMaterialChangeActor_BP
+[2023.12.05-15.40.59:728][762]LogContentValidation: Display: Validating Blueprint /Game/MyMaterialChangeActor_BP.MyMaterialChangeActor_BP
+[2023.12.05-15.41.00:361][833]BlueprintLog: New page: Compile MyMaterialChangeActor_BP
+[2023.12.05-15.41.00:396][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.12.05-15.41.06:287][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaterialChangeActor_BP" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset" SILENT=true
+[2023.12.05-15.41.06:291][402]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/MyMaterialChangeActor_BP9E7503304003CC4F5103F5A71919649E.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset'
+[2023.12.05-15.41.06:301][402]AssetCheck: New page: Asset Save: MyMaterialChangeActor_BP
+[2023.12.05-15.41.06:301][402]LogContentValidation: Display: Validating Blueprint /Game/MyMaterialChangeActor_BP.MyMaterialChangeActor_BP
+[2023.12.05-15.41.07:704][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaterialChangeActor_BP" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset" SILENT=true
+[2023.12.05-15.41.07:708][518]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/MyMaterialChangeActor_BP7A73202640DAE3F13C5EF295175161D2.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset'
+[2023.12.05-15.41.07:717][518]AssetCheck: New page: Asset Save: MyMaterialChangeActor_BP
+[2023.12.05-15.41.07:717][518]LogContentValidation: Display: Validating Blueprint /Game/MyMaterialChangeActor_BP.MyMaterialChangeActor_BP
+[2023.12.05-15.41.10:892][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaterialChangeActor_BP" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset" SILENT=true
+[2023.12.05-15.41.10:895][804]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/MyMaterialChangeActor_BPB9D2CD084FDC3B0206E29CAA75A5DBE3.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset'
+[2023.12.05-15.41.10:909][804]AssetCheck: New page: Asset Save: MyMaterialChangeActor_BP
+[2023.12.05-15.41.10:909][804]LogContentValidation: Display: Validating Blueprint /Game/MyMaterialChangeActor_BP.MyMaterialChangeActor_BP
+[2023.12.05-15.41.33:041][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaterialChangeActor_BP" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset" SILENT=true
+[2023.12.05-15.41.33:046][ 72]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/MyMaterialChangeActor_BPC8104FB54AE0DF165D0CBB92372446EE.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset'
+[2023.12.05-15.41.33:056][ 72]AssetCheck: New page: Asset Save: MyMaterialChangeActor_BP
+[2023.12.05-15.41.33:056][ 72]LogContentValidation: Display: Validating Blueprint /Game/MyMaterialChangeActor_BP.MyMaterialChangeActor_BP
+[2023.12.05-15.41.44:242][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaterialChangeActor_BP" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset" SILENT=true
+[2023.12.05-15.41.44:245][328]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/MyMaterialChangeActor_BPF5487B544F6ED405DD9B0DB74E861072.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset'
+[2023.12.05-15.41.44:256][328]AssetCheck: New page: Asset Save: MyMaterialChangeActor_BP
+[2023.12.05-15.41.44:256][328]LogContentValidation: Display: Validating Blueprint /Game/MyMaterialChangeActor_BP.MyMaterialChangeActor_BP
+[2023.12.05-15.41.45:824][508]BlueprintLog: New page: Compile MyMaterialChangeActor_BP
+[2023.12.05-15.41.45:869][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.12.05-15.41.46:416][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMaterialChangeActor_BP" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset" SILENT=true
+[2023.12.05-15.41.46:423][538]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/MyMaterialChangeActor_BP68AE76964074DCF74D06FFA40403D3BA.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/MyMaterialChangeActor_BP.uasset'
+[2023.12.05-15.41.46:436][538]AssetCheck: New page: Asset Save: MyMaterialChangeActor_BP
+[2023.12.05-15.41.46:436][538]LogContentValidation: Display: Validating Blueprint /Game/MyMaterialChangeActor_BP.MyMaterialChangeActor_BP
+[2023.12.05-15.41.48:360][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseMaterialInstance" FILE="../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BaseMaterialInstance.uasset" SILENT=true
+[2023.12.05-15.41.48:381][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.12.05-15.41.48:398][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.12.05-15.41.48:400][733]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/BaseMaterialInstance2BDDC60B42FBD6E139061A8DDF89221E.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/BaseMaterialInstance.uasset'
+[2023.12.05-15.41.48:410][733]AssetCheck: New page: Asset Save: BaseMaterialInstance
+[2023.12.05-15.41.48:410][733]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/BaseMaterialInstance.BaseMaterialInstance
+[2023.12.05-15.41.51:553][ 64]LogVSAccessor: Warning: Couldn't save all documents
+[2023.12.05-15.41.51:556][ 64]Candidate modules for hot reload:
+[2023.12.05-15.41.51:556][ 64]  UnrealAnimation
+[2023.12.05-15.41.51:556][ 64]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UnrealAnimation,8379 UnrealAnimationEditor Win64 Development -Project="C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject" "C:/Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/UnrealAnimation.uproject"  -IgnoreJunk]
+[2023.12.05-15.41.51:559][ 64]Warning: Starting HotReload took  0.0s.
+[2023.12.05-15.41.53:224][203]CompilerResultsLog: New page: Compilation - 5 Dec 2023, 15:41:53
+[2023.12.05-15.41.53:224][203]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises).
+[2023.12.05-15.41.53:224][203]CompilerResultsLog: Building UnrealAnimationEditor...
+[2023.12.05-15.41.53:224][203]CompilerResultsLog: Using Visual Studio 2022 14.37.32824 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.12.05-15.41.53:224][203]CompilerResultsLog: Building 3 actions with 8 processes...
+[2023.12.05-15.41.53:224][203]CompilerResultsLog:   [1/3] UE4Editor-UnrealAnimation-8379.lib
+[2023.12.05-15.41.53:224][203]CompilerResultsLog:      Creating library C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-8379.lib and object C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-8379.exp
+[2023.12.05-15.41.53:224][203]CompilerResultsLog:   [2/3] UE4Editor-UnrealAnimation-8379.dll
+[2023.12.05-15.41.53:224][203]CompilerResultsLog:      Creating library C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-8379.suppressed.lib and object C:\Users\5CINCM67\Documents\GitHub\GSP-Exercises\UnrealAnimation\Intermediate\Build\Win64\UE4Editor\Development\UnrealAnimation\UE4Editor-UnrealAnimation-8379.suppressed.exp
+[2023.12.05-15.41.53:224][203]CompilerResultsLog:   [3/3] UnrealAnimationEditor.target
+[2023.12.05-15.41.53:224][203]CompilerResultsLog: Total time in Parallel executor: 0.99 seconds
+[2023.12.05-15.41.53:224][203]CompilerResultsLog: Total execution time: 1.59 seconds
+[2023.12.05-15.41.53:224][203]LogMainFrame: MainFrame: Module compiling took 1.671 seconds
+[2023.12.05-15.41.53:418][203]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UnrealAnimation' in 0.0002 seconds. Added 10 classes and 2 folders.
+[2023.12.05-15.41.53:423][203]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.12.05-15.41.53:498][203]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0072 seconds. Added 3832 classes and 930 folders.
+[2023.12.05-15.41.53:498][203]Display: HotReload took  1.9s.
+[2023.12.05-15.41.54:507][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.12.05-15.41.54:551][269]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/FirstPersonExampleMap0CC5252C46C15715981D4CA064EBD679.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2023.12.05-15.41.54:845][269]LogSavePackage: Moving '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Saved/FirstPersonExampleMap_BuiltDataC5D4E38143A4B8AA9D7B71AB6C97A6B1.tmp' to '../../../../../../Users/5CINCM67/Documents/GitHub/GSP-Exercises/UnrealAnimation/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.12.05-15.41.54:855][269]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.05-15.41.54:856][269]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.12.05-15.41.54:856][269]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.12.05-15.46.22:326][463]LogHotReload: New module detected: UE4Editor-UnrealAnimation-5413.dll
+[2023.12.05-15.46.23:344][467]LogHotReload: Starting Hot-Reload from IDE
+[2023.12.05-15.46.23:543][467]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UnrealAnimation' in 0.0002 seconds. Added 10 classes and 2 folders.
+[2023.12.05-15.46.23:549][467]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.12.05-15.46.23:678][467]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3832 classes and 930 folders.
+[2023.12.05-15.46.23:680][467]Display: HotReload took  0.3s.
+[2023.12.05-15.47.08:971][602]LogHotReload: New module detected: UE4Editor-UnrealAnimation-7119.dll
+[2023.12.05-15.47.09:985][606]LogHotReload: Starting Hot-Reload from IDE
+[2023.12.05-15.47.10:023][606]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UnrealAnimation' in 0.0002 seconds. Added 10 classes and 2 folders.
+[2023.12.05-15.47.10:029][606]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.12.05-15.47.10:139][606]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0079 seconds. Added 3832 classes and 930 folders.
+[2023.12.05-15.47.10:141][606]Display: HotReload took  0.2s.
+[2023.12.05-15.54.08:571][855]LogHotReload: New module detected: UE4Editor-UnrealAnimation-3970.dll
+[2023.12.05-15.54.09:919][860]LogHotReload: Starting Hot-Reload from IDE
+[2023.12.05-15.54.09:950][860]LogClass: Could not find existing class MyMaterialChangeActor in package /Script/UnrealAnimation for HotReload, assuming new class
+[2023.12.05-15.54.09:974][860]LogHotReload: Re-instancing MyMaterialChangeActor after hot-reload.
+[2023.12.05-15.54.10:025][860]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UnrealAnimation' in 0.0003 seconds. Added 10 classes and 2 folders.
+[2023.12.05-15.54.10:048][860]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.12.05-15.54.10:206][860]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0084 seconds. Added 3832 classes and 930 folders.
+[2023.12.05-15.54.10:208][860]Display: HotReload took  0.3s.
+[2023.12.05-15.55.53:403][168]LogHotReload: New module detected: UE4Editor-UnrealAnimation-0419.dll
+[2023.12.05-15.55.54:424][172]LogHotReload: Starting Hot-Reload from IDE
+[2023.12.05-15.55.54:492][172]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.12.05-15.55.54:492][172]LogWindows: Windows GetLastError: The operation completed successfully. (0)

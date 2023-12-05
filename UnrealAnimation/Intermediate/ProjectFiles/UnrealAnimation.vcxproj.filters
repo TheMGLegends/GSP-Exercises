@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealAnimation.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{5190BFDB-C923-4556-AFDD-9D5CFC765871}</UniqueIdentifier>
+      <UniqueIdentifier>{6399B66C-A059-400B-818D-CE9AEE956638}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealAnimation.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{CD56917C-D084-46AC-B05E-57E816B52A3F}</UniqueIdentifier>
+      <UniqueIdentifier>{ED80E305-A14C-4F58-92A3-1D4F874BC6A2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UnrealAnimation">
-      <UniqueIdentifier>{ACDAFF2B-E7EA-45B7-9740-5CC7A461BEF8}</UniqueIdentifier>
+      <UniqueIdentifier>{F10A31AA-792C-4C12-A33B-3EF3B0EE7CBF}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\UnrealAnimation\AMyNinja.cpp">
       <Filter>Source\UnrealAnimation</Filter>
@@ -48,6 +48,12 @@
       <Filter>Source\UnrealAnimation</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\UnrealAnimation\MyAnimNotify.h">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealAnimation\MyMaterialChangeActor.cpp">
+      <Filter>Source\UnrealAnimation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAnimation\MyMaterialChangeActor.h">
       <Filter>Source\UnrealAnimation</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\UnrealAnimation\MyPlayerController.cpp">
